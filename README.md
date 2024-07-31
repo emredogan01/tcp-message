@@ -1,4 +1,4 @@
-# TCP Messaging
+# TCP Messaging Application
 
 This is a simple TCP messaging application written in Golang. The application consists of a TCP server and a TCP client. The server accepts connections from clients and receives messages, while the client connects to the server and sends messages.
 
@@ -19,6 +19,12 @@ This is a simple TCP messaging application written in Golang. The application co
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/tcp-messaging-app.git
-   cd tcp-messaging-app
+   git clone git@github.com:your-username/tsp-message.git
+   cd tsp-message
    ```
+
+- Starting the Server and Client
+
+cd server or client
+
+go run main.go
